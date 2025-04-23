@@ -1,0 +1,9 @@
+1- install express and import it
+2- listen to port
+3- use get route
+4- use middleware
+5- create array of users
+6- put the array in different file
+7- import array and get one user
+8- use nodemon package to automatic save
+9- how to call html page ??
